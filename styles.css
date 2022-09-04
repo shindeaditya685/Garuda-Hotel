@@ -1,0 +1,98 @@
+/* Navbar */
+
+.container-fluid{
+  padding: 30px 40px 10px 40px ;
+}
+
+.top_class{
+  color: white;
+  background-color: #CFD2CF;
+}
+
+
+
+
+/* Navigation bar */
+
+.navbar {
+  padding:0 0 1rem ;
+
+}
+
+/* .navbar-brand{
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 2.5rem ;
+} */
+
+
+
+.nav-item{
+  padding: 0 18px ;
+}
+
+
+.top_head{
+  font-weight: bold;
+  font-size: large;
+}
+
+.navbar-brand{
+  width: 450px;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Comfortaa', cursive;
+}
+
+.nav-link{
+  color: white;
+}
+
+
+
+.title-image{
+  width: 90%;
+  position: absolute;
+  /* right: 50px; */
+  left: 100px;
+  top: 400px;
+  text-align: center;
+  /* height: 128px; */
+}
+
+/* .offer-img{
+  width: 30%;
+  position: absolute;
+  text-align: center;
+} */
+
+
+.par{
+  padding-top: 60px;
+  text-align: center;
+  font-size: 3.5rem;
+  position: absolute;
+  left: 50px;
+  right: 50px;
+  top: 200px;
+  font-weight:bold;
+  color: #EB1D36;
+  font-family: 'Kanit', sans-serif;
+
+}
+
+
+
+@media (max-width: 1028px) {
+  #nav-bar{
+    text-align: center;
+  }
+  .title-image{
+    position: absolute;
+    left: 36px;
+    top: 550px;
+  }
+
+}
+}
