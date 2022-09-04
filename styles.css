@@ -84,14 +84,14 @@
 
 
 
-@media (max-width: 1028px) {
+@media (max-width: 1920px) {
   #nav-bar{
     text-align: center;
   }
   .title-image{
     position: absolute;
-    left: 36px;
-    top: 550px;
+    left: 30px;
+    top: 650px;
   }
 
 }
